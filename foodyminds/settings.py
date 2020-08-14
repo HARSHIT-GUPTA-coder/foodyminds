@@ -130,11 +130,7 @@ MEDIA_URL = '/media/'
 
 # PAYMENT_HOST = 'localhost:8000'
 # PAYMENT_USES_SSL = False
-# PAYMENT_MODShubham Ojha
-how are we supposed to submit the assignment??
-Divyansh Nataniadmin
-Arjun Agarwal
-Please post all the helpful videoEL = 'user.Payment'
+# PAYMENT_MODEL = 'user.Payment'
 # PAYMENT_VARIANTS = {
 #     'default': ('payments.dummy.DummyProvider', {})}
 
